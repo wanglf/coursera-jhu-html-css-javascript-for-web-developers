@@ -21,7 +21,8 @@
 
 ul#nav-list {
     background-color:gainsboro;
-    margin: 0 10px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 #nav-list a {
@@ -29,7 +30,7 @@ ul#nav-list {
 }
 
 #nav-list a:hover {
-    background: #E7E7E7;
+    background:black;
 }
 
 #single_cell {

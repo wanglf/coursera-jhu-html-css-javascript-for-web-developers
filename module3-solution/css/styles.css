@@ -21,18 +21,18 @@
 
 ul#nav-list {
     background-color:gainsboro;
+    margin: 0 10px;
 }
 
 #nav-list a {
     color: #951C49;
-    text-align: center;
 }
 
 #nav-list a:hover {
     background: #E7E7E7;
 }
 
-#main_text {
+#single_cell {
     text-align: left;
     background-color: gainsboro;
     margin: 0 30px 0 30px;
